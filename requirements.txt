@@ -44,7 +44,7 @@ oauth2client
 opencv-python--headless
 patool
 psutil
-psycopg2-binary
+psycopg2
 pygame
 PyLyrics
 pySmartDL
