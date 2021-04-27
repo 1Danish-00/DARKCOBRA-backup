@@ -1,6 +1,6 @@
 import os 
 import subprocess
-os.system("git clone https://github.com/1Danish-00/DARKCOBRA darkcobra")
+os.system("git clone https://github.com/dark-cobra/DARKCOBRA darkcobra")
 os.chdir("darkcobra")
 os.system("pip install aria2p")
 process = subprocess.Popen(
